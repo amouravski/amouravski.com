@@ -71,6 +71,17 @@ docpadConfig = {
 			# ensure we are using the latest copy of the docpad configuraiton
 			# and fetch our urls from it
 			latestConfig = docpad.getConfig()
+
+  # =================================
+  # Environments
+	environments:
+    static:
+        plugins:
+            cleanurls:
+                enabled: false
+
+  # Output to the correct gh-pages
+  outPath: '../amouravski.com_gh-pages'
 }
 
 # Export our DocPad Configuration
