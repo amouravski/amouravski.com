@@ -15,7 +15,7 @@ docpadConfig = {
 			url: "http://www.amouravski.com"
 
 			# The default title of our website
-			title: "Andrei Mouravski"
+			title: "amouravski.com"
 
 			# The website description (for SEO)
 			description: """

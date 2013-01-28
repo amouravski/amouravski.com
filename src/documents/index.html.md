@@ -1,6 +1,5 @@
 ---
 layout: 'default'
-title: 'What now?'
 ---
 
 ## Not sure what to do now? Here's some useful links:
